@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, sou o Victor Henrique! 👋
 
-<!--
-**zkillder/zkillder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas (ADS) no **IFRO**, com forte foco em desenvolvimento **Back-end** e criação de aplicações web eficientes e escaláveis. Gosto de transformar problemas em soluções lógicas utilizando tecnologias modernas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias e Ferramentas
+
+* **Linguagens:** Python, SQL
+* **Frameworks & Web:** Flask, Django
+* **Bancos de Dados:** PostgreSQL, SQLite, Modelagem de Dados (DBeaver, brModelo)
+* **Ferramentas & DevOps:** Git, GitHub, VS Code, Cursor, Trae, PythonAnywhere, Vercel
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zkillder&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub do zkillder" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkillder&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" />
+</p>
+
+---
+
+### 📬 Vamos conectar?
+
+* **E-mail:** henriqueptv38@gmail.com
+* **GitHub:** [github.com/zkillder](https://github.com/zkillder)
