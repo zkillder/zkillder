@@ -1,30 +1,64 @@
-# Olá, sou o Victor Henrique! 👋
+# Victor Henrique
 
-Estudante de Análise e Desenvolvimento de Sistemas (ADS) no **IFRO**, com forte foco em desenvolvimento **Back-end** e criação de aplicações web eficientes e escaláveis. Gosto de transformar problemas em soluções lógicas utilizando tecnologias modernas.
+### Desenvolvedor Back-end | Python • Flask • PostgreSQL
 
----
+Estudante de **Análise e Desenvolvimento de Sistemas no IFRO**, interessado em desenvolvimento de software, arquitetura de sistemas e soluções que resolvem problemas reais.
 
-### 🚀 Tecnologias e Ferramentas
+Atualmente, concentro meus estudos no desenvolvimento **Back-end com Python**, trabalhando na construção de aplicações web, APIs, integração com bancos de dados e automação de processos.
 
-* **Linguagens:** Python, SQL
-* **Frameworks & Web:** Flask, Django
-* **Bancos de Dados:** PostgreSQL, SQLite, Modelagem de Dados (DBeaver, brModelo)
-* **Ferramentas & DevOps:** Git, GitHub, VS Code, Cursor, Trae, PythonAnywhere, Vercel
+Gosto de entender como as coisas funcionam por trás do código e transformar ideias em sistemas funcionais.
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🛠️ Stack & Ferramentas
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zkillder&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub do zkillder" />
+**Linguagens**
+- Python
+- SQL
+
+**Back-end**
+- Flask
+- Django
+- APIs REST
+
+**Banco de Dados**
+- PostgreSQL
+- SQLite
+
+**Ferramentas**
+- Git & GitHub
+- Docker
+- DBeaver
+- VS Code
+- Linux
+
+---
+
+### 🚧 Atualmente
+
+- Desenvolvendo aplicações web com Python.
+- Aprofundando conhecimentos em arquitetura Back-end e bancos de dados.
+- Trabalhando em projetos próprios e sistemas voltados para problemas do mundo real.
+- Estudando boas práticas de desenvolvimento e organização de código.
+
+---
+
+### 📊 GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zkillder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkillder&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkillder&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" />
-</p>
 
 ---
 
-### 📬 Vamos conectar?
+### 📫 Contato
 
-* **E-mail:** henriqueptv38@gmail.com
-* **GitHub:** [github.com/zkillder](https://github.com/zkillder)
+- **E-mail:** henriqueptv38@gmail.com
+- **GitHub:** [@zkillder](https://github.com/zkillder)
+
+---
+
+<p align="center">
+  <i>Aprendendo, construindo e evoluindo um projeto de cada vez.</i>
+</p>
