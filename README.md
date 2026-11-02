@@ -41,14 +41,6 @@ Gosto de entender como as coisas funcionam por trás do código e transformar id
 - Trabalhando em projetos próprios e sistemas voltados para problemas do mundo real.
 - Estudando boas práticas de desenvolvimento e organização de código.
 
----
-
-### 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zkillder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkillder&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
